@@ -23,6 +23,8 @@ jobs:
           - {os: ubuntu-latest,   r: 'release'}
           - {os: ubuntu-latest,   r: '4.5.3'}
           - {os: ubuntu-latest,   r: '4.5.0'}
+          - {os: ubuntu-latest,   r: '4.4.0'}
+          - {os: ubuntu-latest,   r: '4.3.0'}
           - {os: ubuntu-latest,   r: '4.2.0'}
           - {os: ubuntu-latest,   r: '4.1.3'}
 
