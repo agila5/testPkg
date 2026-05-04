@@ -2,7 +2,7 @@
 % Please edit documentation in R/names.R
 \name{toy_names}
 \alias{toy_names}
-\title{Toy}
+\title{Toy2}
 \usage{
 toy_names(...)
 }
@@ -13,7 +13,7 @@ toy_names(...)
 Names
 }
 \description{
-Toy
+Toy2
 }
 \examples{
 toy_names()

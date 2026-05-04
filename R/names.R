@@ -1,4 +1,4 @@
-#' Toy
+#' Toy2
 #'
 #' @param ... Just dots
 #'
